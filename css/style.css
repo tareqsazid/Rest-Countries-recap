@@ -1,0 +1,10 @@
+.countries{
+    display: flex;
+    flex-direction: column;
+   
+}
+.country{
+    border: 3px solid goldenrod;
+
+    border-radius: 20px;
+}
